@@ -1,5 +1,5 @@
 # Memelet
-A meme flash card generator.
+An educational meme flash card generator.
 
 This is a project that was created at WaffleHacks
 
